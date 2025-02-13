@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Brian Souza and I'm a new programmer. </h2>
+<h2 align="left">Hi 👋! My name is Nicolas Souza and I'm a new programmer. </h2>
 
 ###
 
@@ -28,23 +28,23 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@briansouzaa">
+  <a href="https://www.youtube.com/@Gezus00">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 
-  <a href="https://www.twitch.tv/ntc_noway">
+  <a href="https://www.twitch.tv/gezus007">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
 
-  <a href="https://www.instagram.com/__briansouza__/">
+  <a href="https://www.instagram.com/nicolassouza.007/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 
-  <a href="https://www.facebook.com/nicolas.andrew.52">
+  <a href="https://www.facebook.com/nicolas.souza.547/?locale=pt_BR">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 
-  <a href="https://www.linkedin.com/in/brian-santos-498112326/">
+  <a href="https://www.linkedin.com/in/nicolas-souza-b60110231/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>

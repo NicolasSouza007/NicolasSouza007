@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! Olá me chamo Nicolas. </h2>
+<h2 align="center"> Olá! Me chamo Nicolas. </h2>
 
 ###
 

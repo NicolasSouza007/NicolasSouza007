@@ -4,12 +4,12 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats-git-master-nax3t.vercel.app/api?username=NicolasSouza007&show_icons=true&theme=dracula&hide_border=false"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=NicolasSouza007&show_icons=true&theme=dracula&hide_border=false"
     height="150"
     alt="stats graph"
   />
   <img
-    src="https://github-readme-stats-git-master-nax3t.vercel.app/api/top-langs/?username=NicolasSouza007&layout=compact&theme=dracula&hide_border=false"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NicolasSouza007&layout=compact&theme=dracula&hide_border=false"
     height="150"
     alt="languages graph"
   />
